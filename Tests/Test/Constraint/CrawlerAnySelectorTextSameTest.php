@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests\Test\Constraint;
+namespace Fastwhale\Component\DomCrawler\Tests\Test\Constraint;
 
 use PHPUnit\Framework\ExpectationFailedException;
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\TestFailure;
-use Symfony\Component\DomCrawler\Crawler;
-use Symfony\Component\DomCrawler\Test\Constraint\CrawlerAnySelectorTextSame;
+use Fastwhale\Component\DomCrawler\Crawler;
+use Fastwhale\Component\DomCrawler\Test\Constraint\CrawlerAnySelectorTextSame;
 
 final class CrawlerAnySelectorTextSameTest extends TestCase
 {

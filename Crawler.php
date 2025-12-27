@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler;
+namespace Fastwhale\Component\DomCrawler;
 
-use Masterminds\HTML5;
+use Fastwhale\HTML5;
 use Symfony\Component\CssSelector\CssSelectorConverter;
 
 /**

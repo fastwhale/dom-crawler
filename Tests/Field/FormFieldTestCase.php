@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests\Field;
+namespace Fastwhale\Component\DomCrawler\Tests\Field;
 
 use PHPUnit\Framework\TestCase;
 

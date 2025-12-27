@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests;
+namespace Fastwhale\Component\DomCrawler\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Symfony\Component\DomCrawler\Crawler;
-use Symfony\Component\DomCrawler\Form;
-use Symfony\Component\DomCrawler\Image;
-use Symfony\Component\DomCrawler\Link;
+use Fastwhale\Component\DomCrawler\Crawler;
+use Fastwhale\Component\DomCrawler\Form;
+use Fastwhale\Component\DomCrawler\Image;
+use Fastwhale\Component\DomCrawler\Link;
 
 abstract class AbstractCrawlerTestCase extends TestCase
 {

@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests;
+namespace Fastwhale\Component\DomCrawler\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Symfony\Component\DomCrawler\Field\ChoiceFormField;
-use Symfony\Component\DomCrawler\Field\FormField;
-use Symfony\Component\DomCrawler\Field\InputFormField;
-use Symfony\Component\DomCrawler\Field\TextareaFormField;
-use Symfony\Component\DomCrawler\Form;
-use Symfony\Component\DomCrawler\FormFieldRegistry;
+use Fastwhale\Component\DomCrawler\Field\ChoiceFormField;
+use Fastwhale\Component\DomCrawler\Field\FormField;
+use Fastwhale\Component\DomCrawler\Field\InputFormField;
+use Fastwhale\Component\DomCrawler\Field\TextareaFormField;
+use Fastwhale\Component\DomCrawler\Form;
+use Fastwhale\Component\DomCrawler\FormFieldRegistry;
 
 class FormTest extends TestCase
 {

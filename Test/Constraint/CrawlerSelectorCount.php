@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Test\Constraint;
+namespace Fastwhale\Component\DomCrawler\Test\Constraint;
 
 use PHPUnit\Framework\Constraint\Constraint;
-use Symfony\Component\DomCrawler\Crawler;
+use Fastwhale\Component\DomCrawler\Crawler;
 
 final class CrawlerSelectorCount extends Constraint
 {

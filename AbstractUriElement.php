@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler;
+namespace Fastwhale\Component\DomCrawler;
 
 /**
  * Any HTML element that can link to an URI.

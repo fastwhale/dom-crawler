@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler;
+namespace Fastwhale\Component\DomCrawler;
 
 /**
  * Link represents an HTML link (an HTML a, area or link tag).

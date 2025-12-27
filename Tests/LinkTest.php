@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests;
+namespace Fastwhale\Component\DomCrawler\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Symfony\Component\DomCrawler\Link;
+use Fastwhale\Component\DomCrawler\Link;
 
 class LinkTest extends TestCase
 {

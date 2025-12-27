@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests\Field;
+namespace Fastwhale\Component\DomCrawler\Tests\Field;
 
-use Symfony\Component\DomCrawler\Field\ChoiceFormField;
+use Fastwhale\Component\DomCrawler\Field\ChoiceFormField;
 
 class ChoiceFormFieldTest extends FormFieldTestCase
 {

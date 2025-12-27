@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Field;
+namespace Fastwhale\Component\DomCrawler\Field;
 
 /**
  * TextareaFormField represents a textarea form field (an HTML textarea tag).

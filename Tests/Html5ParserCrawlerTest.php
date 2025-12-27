@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler\Tests;
+namespace Fastwhale\Component\DomCrawler\Tests;
 
 class Html5ParserCrawlerTest extends AbstractCrawlerTestCase
 {
@@ -72,7 +72,7 @@ class Html5ParserCrawlerTest extends AbstractCrawlerTestCase
         $html5Parser = $r->getValue($crawler);
 
         if ($useHtml5Parser) {
-            $this->assertInstanceOf(\Masterminds\HTML5::class, $html5Parser, 'Html5Parser must be a Masterminds\HTML5 instance');
+            $this->assertInstanceOf(\Fastwhale\HTML5::class, $html5Parser, 'Html5Parser must be a Fastwhale\HTML5 instance');
         } else {
             $this->assertNull($html5Parser, 'Html5Parser must be null');
         }

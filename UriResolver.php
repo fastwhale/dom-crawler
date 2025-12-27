@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Component\DomCrawler;
+namespace Fastwhale\Component\DomCrawler;
 
 /**
  * The UriResolver class takes an URI (relative, absolute, fragment, etc.)
